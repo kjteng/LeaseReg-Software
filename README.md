@@ -13,7 +13,7 @@ It is a simple application which include three main functions :-
 
 	a. Lease Schedule showing the balance of lease assets/liabilities, temporary differences (for deferred tax purpose) at end of each 		 month, lease payment and interest for each and other useful information;
 	
-	![Schedule](intro2.png]
+	![Schedule](intro2.png)
 
 
 3.	Create report (cont’d)
