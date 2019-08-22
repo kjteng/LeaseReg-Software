@@ -16,7 +16,7 @@ It is a simple application which include three main functions :-
 	![Schedule](intro2.png)
 
 
-3.	Create report (cont’d)
+	Create report (cont’d)
 
 	b. Periodic summary report for all the lease contracts in the database.
 	
