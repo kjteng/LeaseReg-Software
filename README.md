@@ -4,7 +4,7 @@ LeaseReg is a computer software which help us to keep track and account for leas
 It is a simple application which include three main functions :-	
 
 1.	Data entry – Input of basic data pertaining to each lease contract  e.g. lease term, interest rates, lease payment etc.
-
+![Data entry](intro1.png)
 
 2.	Adjustments for impairment, reversal, termination and cancellation during the lease period;
  
