@@ -21,3 +21,13 @@ It is a simple application which include three main functions :-
 	b. Periodic summary report for all the lease contracts in the database.
 	
 	![Summary report](intro3.png)
+
+
+Installation procedure
+
+1. Download the latest version from https://github.com/kjteng/LeaseReg-Software.  Save the downloaded file (LeaseRegX_XXX.exe, X_XXX is the version number) to the folder where you want to install LeaseReg software;
+
+2. Double click to run the installer (LeaseRegX_XXX.exe). The installer will then create all the necessary file in a folder called 'LeaseReg' in the same loacation as the installer;  
+
+3. You can now start the program by double click on 'LeaseReg.exe - Shortcut' or 'LeaseReg.exe' from the 'LeaseReg' folder
+![LeaseReg folder](intro.png)
