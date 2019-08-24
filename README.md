@@ -31,4 +31,4 @@ Installation procedure
 
 3. You can now start the program by double click on 'LeaseReg.exe - Shortcut' or 'LeaseReg.exe' from the 'LeaseReg' folder.
 
-![LeaseReg folder](intro4.png)
+	![LeaseReg folder](intro4.png)
