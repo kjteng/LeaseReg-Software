@@ -30,4 +30,5 @@ Installation procedure
 2. Double click to run the installer (LeaseRegX_XXX.exe). The installer will then create all the necessary files in a folder called 'LeaseReg' in the same loacation as the installer;  
 
 3. You can now start the program by double click on 'LeaseReg.exe - Shortcut' or 'LeaseReg.exe' from the 'LeaseReg' folder.
-![LeaseReg folder](intro.png)
+
+![LeaseReg folder](intro4.png)
