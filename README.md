@@ -1,6 +1,6 @@
 # LeaseReg-Software
 
-INTRODUCTION
+Introduction
 ============
 
 LeaseReg is a computer software which help us to keep track and account for lease transactions (particularly for lessee accounting). 	
@@ -24,7 +24,8 @@ It is a simple application which include three main functions :-
 	![Summary report](intro3.png)
 
 
-SOFTWARE INSTALLATION
+
+Software installation
 =====================
 
 1. Download the latest version from https://github.com/kjteng/LeaseReg-Software.  Save the downloaded file (LeaseRegX_XXX.exe, X_XXX is the version number);
