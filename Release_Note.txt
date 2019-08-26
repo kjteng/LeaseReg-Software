@@ -1,0 +1,20 @@
+ver 1.3n
+Use dd/mmyyyy as the date format for calendar and ignore the windows settings for date format
+To prevent user from keying in contract data if the agreement ID is blank 
+
+ver 1.3m
+Allow user to export to Schedule/Report to Excel unprotected workbook
+Add Ctrl+I and Ctrl+D to change column width
+Fix minor error - Contract page is updated immediately after user de-register a contract (so that the particular contract can be edited) 
+
+ver1.3k
+Added 3 pdf help files
+Minor change in user interface
+
+ver 1.3j
+Fix the two important bugs bugs in deferred tax computation (on Rental Lease and HP transaction);
+Contract input screean revamped. Now changes will only be saved if user click SAVE button. All changes will be discarded if the user navigate to other records
+
+
+
+
