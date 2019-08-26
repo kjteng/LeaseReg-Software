@@ -24,11 +24,11 @@ Installation procedure
 
 1. Download the latest version from https://github.com/kjteng/LeaseReg-Software.  Save the downloaded file (LeaseRegX_XXX.exe, X_XXX is the version number);
 
-2. Double click to run the installer (LeaseRegX_XXX.exe). In the following screen, key in or select the location where you want to save the software.
+2. Double click LeaseRegX_XXX.exe. When the following screen appear, key in or select the location where you want to extract LeaseReg software.
 
-![program folder](intro5.png)
+	![program location](intro5.png)
 
-3. Click [OK] button and the installer will extract all the necessary files into a new folder called 'LeaseReg';
+3. Click [OK] button. Al the necessary files will then be extracted and saved in a folder called "LeaseReg' (at the location selected in step 2 above);
 
 4. You can now start the program by double click on 'LeaseReg.exe - Shortcut' or 'LeaseReg.exe' from the 'LeaseReg' folder.
 
