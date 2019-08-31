@@ -1,3 +1,12 @@
+ver 1.3q
+BugsS fixed: 
+1. depreciation period was restricted to 100 month. This restriction is removed now.
+2. data state was unchanged after a record is deregistered. Now the software will recheck the status 
+   (i.e. whether it is 'Edit', 'New' or 'View) whenever the contract form is displayed
+.   
+ver 1.3p
+Added new function under Admin menu which export all the lease schedules to excel file with one mouse click.
+
 ver 1.3n
 Use dd/mmyyyy as the date format for calendar and ignore the windows settings for date format
 To prevent user from keying in contract data if the agreement ID is blank 
