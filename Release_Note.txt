@@ -1,3 +1,14 @@
+ver 1.5
+In this version, interest cost is accrued for each row (up to month end).  Interest cost calculated from last instalment date to current instalment date (as in previous version) is shown in column titled 'INT'.
+After a contract is registered in LeaseReg, the user can see how INT is calculated by pressing Alt+F3 (this will show the same schedule as in version 1.3)
+
+
+ver 1.4
+This ver number is reserved in case we need to develop improvement for ver 1.3 (where intererst cost is calculated based on instalment date). 
+
+ver1.3r
+Changed formula for accrued interest computation (now interest period include the day when payment is made, eg if payment is due and day on 1st of the month, the full month interest would be accrued, previously 30/31 or 29/30 month was accrued)
+
 ver 1.3q
 BugsS fixed: 
 1. depreciation period was restricted to 100 month. This restriction is removed now.
